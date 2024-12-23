@@ -1,4 +1,4 @@
-package Java.Interface;
+package Java.Day4.Interface;
 
 public class University2 {
     public University2(CollegeStudent collegeStudent){

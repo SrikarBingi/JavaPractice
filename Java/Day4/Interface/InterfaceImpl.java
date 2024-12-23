@@ -1,4 +1,4 @@
-package Java.Interface;
+package Java.Day4.Interface;
 
 public class InterfaceImpl implements InterfaceDemo{
 
