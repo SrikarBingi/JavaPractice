@@ -1,4 +1,4 @@
-package Java.Day4.ExceptionHandling;
+package Day4.ExceptionHandling;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

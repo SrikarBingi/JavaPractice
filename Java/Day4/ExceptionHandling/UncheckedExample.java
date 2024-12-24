@@ -1,4 +1,4 @@
-package Java.Day4.ExceptionHandling;
+package Day4.ExceptionHandling;
 
 public class UncheckedExample {
     // Unchecked exceptions occur during runtime

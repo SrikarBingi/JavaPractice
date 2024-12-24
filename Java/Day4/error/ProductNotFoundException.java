@@ -1,4 +1,4 @@
-package Java.Day4.error;
+package Day4.error;
 
 public class ProductNotFoundException extends Exception{
     public ProductNotFoundException(String message){

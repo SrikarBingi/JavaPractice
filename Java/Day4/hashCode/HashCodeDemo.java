@@ -1,4 +1,4 @@
-package Java.Day4.hashCode;
+package Day4.hashCode;
 
 //object is super class for all the classes
 public class HashCodeDemo  {

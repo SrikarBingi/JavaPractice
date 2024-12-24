@@ -1,4 +1,4 @@
-package Java.Day4.hashCode;
+package Day4.hashCode;
 
 import java.util.Objects;
 

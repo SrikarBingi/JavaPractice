@@ -1,4 +1,4 @@
-package Java.Day4.ExceptionHandling;
+package Day4.ExceptionHandling;
 
 public class UncheckedNullPointerExample {
     public static void main(String[] args) {

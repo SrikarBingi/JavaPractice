@@ -1,4 +1,4 @@
-package Java.Day4.ExceptionHandling;
+package Day4.ExceptionHandling;
 
 class InvalidLoginDetailsException extends Exception{
     public InvalidLoginDetailsException(String message){

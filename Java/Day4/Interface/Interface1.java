@@ -1,4 +1,4 @@
-package Java.Day4.Interface;
+package Day4.Interface;
 
 public interface Interface1 {
     void add();

@@ -1,4 +1,4 @@
-package Java.Day4.error;
+package Day4.error;
 
 import java.io.FileReader;
 
