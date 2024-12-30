@@ -8,8 +8,8 @@ public class HashCodeDemo  {
 
         //hashCodeDemo1.hashCode();
 
-       HashCodeDemo hashCodeDemo2 = new HashCodeDemo();
-        // HashCodeDemo hashCodeDemo2  = hashCodeDemo1;
+    //    HashCodeDemo hashCodeDemo2 = new HashCodeDemo();
+        HashCodeDemo hashCodeDemo2  = hashCodeDemo1;
 
         //same memory address
         System.out.println(hashCodeDemo1.equals(hashCodeDemo2));
