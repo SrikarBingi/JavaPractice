@@ -43,7 +43,7 @@ public class FlightMain {
 //
 //        }
 
-        //for every task submit it to executor service
+        //for every task submit it to Executor service
         tasks.stream().map(
                 new Function<CallableTask, Future<List<FlightData>>>() {
                     @Override
