@@ -12,7 +12,7 @@ public class CountTask implements Runnable{
        // try {
            // Thread.sleep(100);
        // Thread.currentThread().join();
-            System.out.println("Currently counting");
+            // System.out.println("Currently counting");
             count++;
        // }
         /*catch (InterruptedException e) {
