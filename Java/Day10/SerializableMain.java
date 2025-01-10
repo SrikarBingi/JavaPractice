@@ -34,7 +34,7 @@ public class SerializableMain {
         Student student = (Student) inputStream1.readObject();
 
        System.out.println(student);
-        System.out.println("hey");
+        System.out.println("hello");
 
     }
 
