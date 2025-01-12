@@ -21,6 +21,7 @@ public class CountDownLatchExample {
             
                     latch.wait();
                     System.out.println("All threads finished");
+                    System.out.println("hey");
                 }
             
                     private void countDown() {
