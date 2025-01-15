@@ -17,6 +17,7 @@ public class Main {
         Future<Integer> result = executor.submit(task);
 
         System.out.println("Result: " + result.get()); // Blocking call
+        System.out.println("hey");
         executor.shutdown();
     }
 }
