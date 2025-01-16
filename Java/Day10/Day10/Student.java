@@ -24,6 +24,7 @@ public class Student extends StudentParent {
     private String name;
     private String id;
     private String rollNo;
+    private int age;
 
     public Student(String name, String id,String rollNo) {
         this.name = name;

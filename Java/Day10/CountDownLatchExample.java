@@ -1,6 +1,4 @@
-package Day10;
 
-import java.util.concurrent.CountDownLatch;
 
 public class CountDownLatchExample {
     public CountDownLatchExample(int i) {
