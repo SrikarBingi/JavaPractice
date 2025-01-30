@@ -13,7 +13,7 @@
     </bean>
 
     <bean class="com.springdemo.Address" id="address" >
-        <property name="pinCode" value="50048"/>
+        <property name="pincode" value="50048"/>
         <property name="city" value="Bangalore"/>
     </bean>
 
